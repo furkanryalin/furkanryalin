@@ -22,18 +22,6 @@ Modern ve performans odaklı web arayüzleri geliştiriyorum. Kullanıcı deneyi
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanryalin&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
-
 ---
 
 ## 🛠️ Teknoloji Stack
@@ -70,8 +58,7 @@ Modern ve performans odaklı web arayüzleri geliştiriyorum. Kullanıcı deneyi
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|-------------|
 | **🗺️ TraceTale** | Harita tabanlı interaktif hikaye paylaşım platformu | React, TypeScript, Mapbox |
-| **💎 İnci Takı** | Modern ve responsive e-ticaret arayüzü | Next.js, Tailwind CSS |
-| **🎨 Modern GUI Controller** | Akıcı animasyonlarla yenilikçi kontrol paneli | React, Framer Motion |
+| **💎 İnci Takı** | Modern ve responsive e-ticaret arayüzü | Next.js, Tailwind CSS 
 
 </div>
 
