@@ -19,9 +19,10 @@ Kod yazarken hem görsel kaliteye hem de okunabilirliğe önem veriyorum.
 
 ## 📊 GitHub İstatistikleri
 <p align="left">
-  <img alt="Furkan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=radical" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
