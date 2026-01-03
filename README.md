@@ -22,15 +22,28 @@ Modern ve performans odaklı web arayüzleri geliştiriyorum. Kullanıcı deneyi
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 🏆 GitHub Başarıları
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=furkanryalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanryalin&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+</div>
+
+---
+
+## 💻 Kod İstatistikleri
+
+<div align="center">
+
+```text
+React           ████████████░░░░░░░░░   30%
+TypeScript      ██████████░░░░░░░░░░░   25%
+Tailwind CSS    ████████░░░░░░░░░░░░░   20%
+Vue.js          ████░░░░░░░░░░░░░░░░░   10%
+Node.js         ███░░░░░░░░░░░░░░░░░░    8%
+Python          ██░░░░░░░░░░░░░░░░░░░    7%
+```
 
 </div>
 
@@ -83,11 +96,22 @@ Modern ve performans odaklı web arayüzleri geliştiriyorum. Kullanıcı deneyi
 
 ---
 
-## 📈 Katkı Aktivitesi
+## 📈 Geliştirme Aktivitesi
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkanryalin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanryalin&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="100%" />
+    </td>
+  </tr>
+</table>
+
+![Contribution Snake](https://raw.githubusercontent.com/furkanryalin/furkanryalin/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
