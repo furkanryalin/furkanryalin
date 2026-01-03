@@ -1,60 +1,111 @@
-# 👋 Merhaba — Ben Furkan R. Yalın
+<div align="center">
+  
+# 👨‍💻 Furkan R. Yalın
 
-<p align="left">
-  <a href="mailto:furkanyalinn@icloud.com">
-    <img src="https://img.shields.io/badge/📫-furkanyalinn@icloud.com-0ea5e9" />
-  </a>
-  <a href="https://github.com/furkanryalin">
-    <img src="https://img.shields.io/badge/GitHub-furkanryalin-0ea5e9?style=flat-square" />
-  </a>
-  <a href="https://yalintech.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-YalınTech-0077cc?style=flat-square" />
-  </a>
-</p>
+### Frontend Developer & UI/UX Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Modern+Web+Aray%C3%BCzleri;Performans+%26+Estetik;UI%2FUX+Tasar%C4%B1m" alt="Typing SVG" />
+
+[![Email](https://img.shields.io/badge/Email-furkanyalinn%40icloud.com-3B82F6?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:furkanyalinn@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YalınTech-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://yalintech.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-furkanryalin-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkanryalin)
+
+</div>
 
 ---
 
-## 🔷 Hakkımda
-Modern, performans odaklı ve estetik web arayüzleri geliştiriyorum.  
-UI/UX, animasyonlar ve frontend mimarileri üzerine yoğunlaşıyorum.  
-Tüm projelerim ve canlı demolar: **https://yalintech.vercel.app/**
+## 🎯 Hakkımda
+
+Modern ve performans odaklı web arayüzleri geliştiriyorum. Kullanıcı deneyimini ön planda tutarak, estetik ve işlevsel çözümler üretiyorum. Frontend mimarisi, animasyonlar ve UI/UX tasarımı üzerine yoğunlaşıyorum.
+
+🌐 **Tüm projelerim:** [yalintech.vercel.app](https://yalintech.vercel.app/)
 
 ---
 
 ## 📊 GitHub İstatistikleri
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=86400" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=blueberry&hide_border=true&cache_seconds=86400" />
-</p>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanryalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanryalin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanryalin&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+
+</div>
 
 ---
 
-## 🛠️ Teknolojiler
-<p align="left">
-  <img src="https://img.shields.io/badge/React-30%25-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-25%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-20%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-10%25-42B883?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-8%25-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-7%25-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+## 🛠️ Teknoloji Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Öne Çıkan Projeler
-- **TraceTale** — Harita tabanlı interaktif hikâye paylaşımı  
-- **İnci Takı** — Responsive e-ticaret ön yüzü  
-- **Modern GUI Controller** — Akıcı animasyonlu arayüz yapısı
+
+<div align="center">
+
+| Proje | Açıklama | Teknolojiler |
+|-------|----------|-------------|
+| **🗺️ TraceTale** | Harita tabanlı interaktif hikaye paylaşım platformu | React, TypeScript, Mapbox |
+| **💎 İnci Takı** | Modern ve responsive e-ticaret arayüzü | Next.js, Tailwind CSS |
+| **🎨 Modern GUI Controller** | Akıcı animasyonlarla yenilikçi kontrol paneli | React, Framer Motion |
+
+</div>
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Tüm_Projeleri_Gör-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://yalintech.vercel.app/)
+
+</div>
+
+---
+
+## 📈 Katkı Aktivitesi
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=furkanryalin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
+
+</div>
 
 ---
 
 ## 📫 İletişim
-- **E-posta:** furkanyalinn@icloud.com  
-- **Portföy:** https://yalintech.vercel.app/
+
+<div align="center">
+
+Modern web arayüzleri ve yenilikçi projeler hakkında konuşmak ister misiniz?
+
+[![Email](https://img.shields.io/badge/✉️_Email-furkanyalinn@icloud.com-3B82F6?style=for-the-badge)](mailto:furkanyalinn@icloud.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-YalınTech-3B82F6?style=for-the-badge)](https://yalintech.vercel.app/)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkanryalin&color=blue" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=furkanryalin&color=3B82F6&style=for-the-badge)
+
+**⭐ Projelerime göz atmayı unutmayın!**
+
+</div>
